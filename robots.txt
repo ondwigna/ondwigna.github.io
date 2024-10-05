@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ondwigna.github.io/sitemap.html.gz
+Sitemap: https://ondwigna.github.io/app/sitemap.html.gz
+Sitemap: https://ondwigna.github.io/assets/sitemap.html.gz
+Sitemap: https://ondwigna.github.io/css/sitemap.html.gz
+Sitemap: https://ondwigna.github.io/data/sitemap.html.gz
+Sitemap: https://ondwigna.github.io/includes/sitemap.html.gz
+Sitemap: https://ondwigna.github.io/item/sitemap.html.gz
+Sitemap: https://ondwigna.github.io/src/sitemap.html.gz
